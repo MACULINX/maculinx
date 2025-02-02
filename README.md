@@ -24,6 +24,7 @@ Appassionato di sviluppo software, web e algoritmi.
 <a href="#">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACULINX&layout=compact&theme=radical&langs_count=8"/>
 </a>
+
 ---
 
 🔹 *Sentiti libero di esplorare i miei repository e di contattarmi per collaborazioni!* 🚀
