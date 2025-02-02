@@ -24,3 +24,6 @@ Appassionato di sviluppo software, web e algoritmi.
 ---
 
 🔹 *Sentiti libero di esplorare i miei repository e di contattarmi per collaborazioni!* 🚀
+
+
+![](https://hit.yhype.me/github/profile?account_id=56220142)
