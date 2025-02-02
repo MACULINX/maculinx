@@ -8,8 +8,12 @@ Appassionato di sviluppo software, web e algoritmi.
 - **[WPFStampante](https://github.com/MACULINX/WPFStampante/)** - Simulazione di una stampante in WPF.  
 
 ## 📊 Statistiche GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MACULINX&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MACULINX&layout=compact&theme=radical)  
+<a href="#">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=MACULINX&show_icons=true&theme=radical"/>
+</a>
+<a href="#">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACULINX&layout=compact&theme=radical&langs_count=8&card_width=320"/>
+</a>
 
 ## 🎯 Obiettivi di programmazione  
 - 🚀 Migliorare le mie competenze in **C# e sviluppo web**  
