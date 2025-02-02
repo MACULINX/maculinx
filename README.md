@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Marco Bucci (MACULINX)  
+# 👋 Ciao, sono Marco Bucci  
 Studente della classe 5I Informatica presso ITTS "O. Belluzzi - L. da Vinci" di Rimini.  
 Appassionato di sviluppo software, web e algoritmi.
 
@@ -24,6 +24,4 @@ Appassionato di sviluppo software, web e algoritmi.
 ---
 
 🔹 *Sentiti libero di esplorare i miei repository e di contattarmi per collaborazioni!* 🚀
-
-
 ![](https://hit.yhype.me/github/profile?account_id=56220142)
