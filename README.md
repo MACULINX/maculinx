@@ -12,7 +12,7 @@ Appassionato di sviluppo software, web e algoritmi.
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=MACULINX&show_icons=true&theme=radical"/>
 </a>
 <a href="#">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACULINX&layout=compact&theme=radical&langs_count=8&card_width=240"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACULINX&layout=compact&theme=radical&langs_count=8"/>
 </a>
 
 ## 🎯 Obiettivi di programmazione  
